@@ -1,0 +1,14 @@
+{
+  "name": "coolest",
+  "version": "1.0.0",
+  "description": "A faster node coroutine",
+  "main": "coolest.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "cd tests && ./test.sh"
+  },
+  "author": "admin@web-tinker.com",
+  "license": "MIT"
+}
