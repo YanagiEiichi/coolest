@@ -1,6 +1,6 @@
 {
   "name": "coolest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A faster node coroutine",
   "main": "coolest.js",
   "directories": {
